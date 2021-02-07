@@ -12,5 +12,7 @@ namespace GeniusTranslate.Controllers
         {
             return View();
         }
+
+
     }
 }
